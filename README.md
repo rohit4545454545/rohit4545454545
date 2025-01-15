@@ -1,7 +1,6 @@
-## Hi there 👋
 # Roshan Paudel
 
-**Flutter Developer looking for opportunities**
+**React & Flutter Developer exploring new opportunities**
 
 ![Profile Picture](path/to/profile/picture)
 
@@ -16,22 +15,23 @@
 
 ### About Me
 
-Hello World 👋, I'm Roshan Paudel, a passionate Flutter developer.
+Hello World 👋, I'm Roshan Paudel, a dynamic developer with a passion for React and Flutter.
 
 - 📚 BSc in CSIT from KCT College, Lokanthali, Bhaktapur.
-- 💼 Recently graduated and looking for exciting career opportunities.
-- 🌐 I enjoy watching Hindi movies and Hindi-dubbed movies for entertainment.
+- 💼 Recently graduated and seeking exciting opportunities in React and Flutter development.
+- 🌐 I enjoy watching Hindi movies  for entertainment.
 
 ### Skills
 
+- React & JavaScript (actively learning and developing)
 - Flutter & Dart
 - Firebase (Auth, Firestore, Storage)
-- React (currently learning)
 - Frontend Development
 - Backend Collaboration
 
 ### Projects
 
+- **React Portfolio Website**: A sleek and modern portfolio website built using React.
 - **Chat Application**: Developed using Flutter and Firebase for seamless communication.
 - **Food Ordering Website**: A user-friendly interface for online food ordering.
 
@@ -49,4 +49,4 @@ Hello World 👋, I'm Roshan Paudel, a passionate Flutter developer.
 
 ---
 
-Let's connect and create amazing projects together!
+Let's connect and create amazing React and Flutter projects together!
