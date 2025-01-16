@@ -47,9 +47,7 @@ Hello World 👋, I'm Roshan Paudel, a dynamic developer with a passion for Reac
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://openlayers.org/theme/img/logo-dark.svg" style="display: inline-block;"><img src="https://openlayers.org/theme/img/logo-dark.svg" alt="OpenLayers" width="42" height="42" /></a>
-<a target="_blank" href="https://maplibre.org/maplibre-gl-js/docs/assets/logo.svg" style="display: inline-block;"><img src="https://maplibre.org/maplibre-gl-js/docs/assets/logo.svg" alt="Maplibre" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.iconscout.com/icon/free/png-512/free-framer-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944880.png?f=webp&w=512" style="display: inline-block;"><img src="https://cdn.iconscout.com/icon/free/png-512/free-framer-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944880.png?f=webp&w=512" alt="framer motion" width="42" height="42" /></a>
+
 </p>
 
 ### Achievements
