@@ -1,9 +1,7 @@
 # Roshan Paudel
 
 **React & Flutter Developer | Passionate About Frontend Development**
-
-![Profile Picture](path/to/profile/picture)
-
+![Profile Picture](https://via.placeholder.com/150?text=Laptop+Image)
 ### Popular Repositories
 
 - **[Product App Display](https://github.com/rohit4545454545/Product-App-Display)**
