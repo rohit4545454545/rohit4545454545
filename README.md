@@ -1,7 +1,7 @@
 # Roshan Paudel
 
 **React & Flutter Developer | Passionate About Frontend Development**
-![Profile Picture](https://via.placeholder.com/150?text=Laptop+Image)
+![Profile Picture](https://4kwallpapers.com/images/wallpapers/eat-sleep-code-repeat-black-background-programmer-quotes-3840x2160-5947.png)
 ### Popular Repositories
 
 - **[Product App Display](https://github.com/rohit4545454545/Product-App-Display)**
